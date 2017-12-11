@@ -1,6 +1,6 @@
 # dmac_server
 #### 简单介绍:
->[dmac_server](https://github.com/xmdevops/dmac_server) 主要用于记录分析设备上报信息,兼容PY2.7+
+>[dmac_server](https://github.com/xmdevops/dmac_server) 主要用于记录分析设备上报信息,兼容PY2.6+
 
 ***
 
